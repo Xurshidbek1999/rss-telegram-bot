@@ -1,1 +1,6 @@
-
+__pycache__/
+*.pyc
+.env
+posted.txt
+.DS_Store
+venv/
